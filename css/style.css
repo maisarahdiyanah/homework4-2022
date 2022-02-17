@@ -1,0 +1,23 @@
+body{
+    font-family: 'Poppins', serif;
+    background-image: url("../images/concrete_seamless.png");
+    background-color: #f1f1f1;
+
+}
+
+#logo{
+    width: 475px;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.nav_links{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
